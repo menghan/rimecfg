@@ -1,0 +1,13 @@
+patch:
+
+  menu/page_size: 9
+
+  # ref: https://gist.github.com/lotem/2309739
+  schema_list:
+    - schema: wubi86
+    - schema: wubi_pinyin
+    - schema: emoji
+
+  switcher/hotkeys:
+    - "Control+grave"
+    - "Control+Shift+grave"

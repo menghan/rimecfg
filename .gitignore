@@ -1,0 +1,9 @@
+/*.userdb/
+/*.reverse.bin
+/*.table.bin
+/*.prism.bin
+/*.schema.yaml
+/default.yaml
+/squirrel.yaml
+/installation.yaml
+/symbols.yaml
