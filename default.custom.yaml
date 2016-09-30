@@ -6,7 +6,6 @@ patch:
   schema_list:
     - schema: wubi86
     - schema: wubi_pinyin
-    - schema: emoji
 
   switcher/hotkeys:
     - "Control+grave"
